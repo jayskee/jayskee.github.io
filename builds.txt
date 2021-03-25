@@ -1,0 +1,18 @@
+id="plugin.program.openwizard"
+version="1.0.0"
+zip="url.to.wizard"
+
+name="LucifeR"
+version="1.0"
+url="https://jayskee.github.io/builds/lucifer.zip"
+minor="http://"
+gui="https://jayskee.github.io/builds/lucifer_gui.zip"
+kodi="19"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview=""
+adult="no"
+info="http://"
+description="LucifeR - The Ultimate Kodi Build."
+
