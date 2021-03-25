@@ -1,4 +1,4 @@
-id="plugin.program.openwizard"
+id="plugin.program.niffahwizard-matrix"
 version="1.0.0"
 zip="https://jayskee.github.io/zips/plugin.program.niffahwizard-matrix/plugin.program.niffahwizard-matrix-2.0.4.zip"
 
