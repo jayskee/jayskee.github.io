@@ -4,9 +4,9 @@ zip="https://jayskee.github.io/zips/plugin.program.niffahwizard-matrix/plugin.pr
 
 name="LucifeR"
 version="1.0"
-url="https://niffah.xyz/kodi/builds/lucifer.zip"
+url="https://niffah.xyz/kodi/builds/Lucifer.zip"
 minor="http://"
-gui="https://niffah.xyz/kodi/builds/lucifer_gui.zip"
+gui="https://niffah.xyz/kodi/builds/Lucifer_gui.zip"
 kodi="19"
 theme="http://"
 icon="http://"
