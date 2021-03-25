@@ -1,5 +1,5 @@
-id="plugin.program.openwizard"
-version="1.0.0"
+id="plugin.program.niffahwizard-matrix"
+version="1.0.1"
 zip="url.to.wizard"
 
 name="LucifeR"
