@@ -1,5 +1,5 @@
 name="Lucifer"
-version="1.1"
+version="1.0.1"
 url="https://niffah.xyz/kodi/builds/Lucifer101.zip"
 minor="http://"
 gui="https://niffah.xyz/kodi/builds/Lucifer101_guisettings.zip"
