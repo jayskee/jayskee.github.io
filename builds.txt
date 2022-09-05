@@ -1,5 +1,5 @@
 name="Lucifer"
-version="2.1"
+version="1.0"
 url="https://www.dropbox.com/s/8bfqtro5z7xrfbe/Lucifer20.zip"
 minor="http://"
 gui="https://www.dropbox.com/s/2gf1pw0usz6j7qu/Lucifer20_guisettings.zip"
