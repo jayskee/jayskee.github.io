@@ -1,6 +1,6 @@
 name="Lucifer"
 version="1.0"
-url="https://www.dropbox.com/s/8bfqtro5z7xrfbe/Lucifer20.zip"
+url="https://www.dropbox.com/s/8bfqtro5z7xrfbe/Lucifer20.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/2gf1pw0usz6j7qu/Lucifer20_guisettings.zip"
 kodi="19.0"
