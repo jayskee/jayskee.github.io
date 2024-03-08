@@ -13,7 +13,7 @@ info="http://"
 description="LucifeR - The Ultimate Kodi Build - New & Improved"
 
 name="Osiris"
-version="1.1"
+version="1.2"
 url="https://www.dropbox.com/scl/fi/ocznoifxpxwgk7u63z1c5/Osiris.zip?rlkey=9gunzh5sd59hfqyyctr8qy1r3&dl=1"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/v8c1gntuq07qy9ori7l1s/Osiris_guisettings.zip?rlkey=wta7db9kpu44k5jv19yp67amd&dl=0"
